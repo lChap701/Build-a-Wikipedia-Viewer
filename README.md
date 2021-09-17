@@ -4,5 +4,5 @@ A project that I created for freeCodeCamp that allow users to view Wikipedia art
 ## Resources
 [CodePen Version](https://codepen.io/lchap701/full/eYWOOxq)\
 [Wikipedia API](https://en.wikipedia.org/w/api.php)\
-[Mature Wikipedia Articles API](https://maturewikipediaarticlesapi.lchap701.repl.co/)
+[Mature Wikipedia Articles API](https://maturewikipediaarticlesapi.lchap701.repl.co/)\
 [React Pagination](https://academind.com/tutorials/reactjs-pagination/)
